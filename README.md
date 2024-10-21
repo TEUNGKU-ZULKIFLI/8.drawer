@@ -1,16 +1,11 @@
-# drawer
+# Drawer
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **Drawer**, yaitu panel navigasi yang muncul dari samping layar. Fitur ini memungkinkan pengguna untuk mengakses berbagai bagian aplikasi dengan mudah tanpa mengganggu tampilan utama.
 
-## Getting Started
+## Fitur Utama
+- **Navigasi Samping:** Aplikasi ini menggunakan widget Drawer untuk menyediakan akses ke berbagai halaman atau fitur yang tersedia di aplikasi, dengan cara yang bersih dan terorganisir.
+- **Desain Responsif:** Drawer dapat dibuka dengan menggeser dari sisi layar atau mengetuk ikon menu, memungkinkan interaksi yang intuitif dan responsif.
+- **Konten Kustom:** Pengguna dapat menambahkan item menu, ikon, dan teks yang sesuai dengan kebutuhan aplikasi, memberikan fleksibilitas dalam desain antarmuka.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Drawer** di aplikasi Flutter. Navigasi dengan Drawer sangat efektif dalam mengelola banyak konten dalam aplikasi, memberikan pengalaman pengguna yang lebih baik dengan menyimpan navigasi utama di tempat yang tidak mengganggu tampilan. Dengan proyek ini, pengguna dapat mempelajari cara menyesuaikan Drawer sesuai dengan kebutuhan aplikasi mereka.
